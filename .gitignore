@@ -1,0 +1,9 @@
+##### Folders #####
+Library/
+Builds/
+Temp/
+Logs/
+
+##### Files #####
+*.csproj
+*.sln
