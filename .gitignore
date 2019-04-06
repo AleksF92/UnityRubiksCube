@@ -1,9 +1,12 @@
 ##### Folders #####
-Library/
-Builds/
-Temp/
-Logs/
+[Ll]ibrary/
+[Bb]uilds/
+[Tt]emp/
+[Ll]ogs/
+[Oo]bj/
+.vs/
 
 ##### Files #####
 *.csproj
 *.sln
+*.alf
